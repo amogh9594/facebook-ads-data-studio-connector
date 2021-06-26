@@ -1,5 +1,5 @@
-var CLIENT_ID = '501417341053676';
-var CLIENT_SECRET = 'e855a648604a9feb2ed93d3f7c7a7236';
+var CLIENT_ID = '';
+var CLIENT_SECRET = '';
 
 
 
